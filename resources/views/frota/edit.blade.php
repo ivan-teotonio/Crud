@@ -48,7 +48,7 @@
 
             <br>
             <div class="form-group">
-                <input type="submit" class="btn btn-success" value="Atualizar" name="submit">
+                <input  type="submit" class="bg-green-600 text-white p-2 rounded" value="Atualizar" name="submit">
             </div>
         </div>
     </form>

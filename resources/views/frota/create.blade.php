@@ -11,7 +11,7 @@
 
     <div class="row mb-5">
         <div class="col-sm-10">
-          <h1>Criar nova Frota</h1>
+          <h1 class="text-4xl">Criar nova Frota</h1>
 
           @if($errors->any())
           <div class="alert alert-danger">
@@ -60,7 +60,7 @@
 
             <br>
             <div class="form-group">
-                <input type="submit" class="btn btn-primary" value="Cadastrar" name="submit">
+                <input type="submit" class="bg-blue-600 text-white p-2 rounded" value="Cadastrar" name="submit">
             </div>
         </div>
     </form>
